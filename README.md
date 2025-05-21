@@ -73,7 +73,7 @@ Trouver une alternance où je peux :
 ## 📫 Me contacter
 
 📧 hibaoumsid2@gmail.com  
-🔗 [LinkedIn](#) *(à ajouter si tu veux)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/hiba-oumsid-a19954252/) 
 🌐 [Portfolio](https://oumsidhiba.github.io/Portfolio-Site/)  
 🐙 [GitHub](https://github.com/OumsidHiba)
 
